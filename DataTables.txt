@@ -1,0 +1,33 @@
+
+___
+
+Percentage of workforce laid off because of COVID-19, by business characteristics
+Table: 33-10-0232-01
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3310023201#tables
+
+____
+
+Business revenue from January 1 to March 31, 2019, compared with January 1 to March 31, 2020, by business characteristics
+Table: 33-10-0234-01
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3310023401
+
+(possibly sectors we would be more interested for the city of Burlington as it has little to no affect of covid) 
+
+____ 
+
+Impact of social distancing measures on businesses, by business characteristics1
+Frequency: Occasional Monthly
+
+Table: 33-10-0237-01
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3310023701
+
+____
+
+Business practices tested or used while social distancing measures were in place, by business characteristics
+Frequency: Occasional Monthly
+
+Table: 33-10-0238-01
+
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3310023801
+____
+
